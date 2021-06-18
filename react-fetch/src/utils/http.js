@@ -1,7 +1,7 @@
 import qs from "querystring";
 
 /**
- * get
+ * get1
  */
 export function httpGet(url) {
   const result = fetch(url);
