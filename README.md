@@ -1,2 +1,2 @@
-# teact-ts
+# react-ts
 练手
